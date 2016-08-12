@@ -4,7 +4,7 @@ import org.functionalkoans.forscala.support.KoanSuite
 
 class AboutAdvancedOptions extends KoanSuite {
   koan("Option is more than just a replacement of null, its also a collection") {
-    Some(10) map { _ + 10} should be(__)
+    Some(10) map { _ + 10} should be(20)
     Some(10) filter { _ == 10} should be(__)
     Some(Some(10)) flatMap { _ map { _ + 10}} should be(__)
 
