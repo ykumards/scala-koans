@@ -1,0 +1,12 @@
+src/main/
+target/
+sbtboot/
+ivyrepo/
+support/
+target/
+*.jar
+*scala.txt
+*.html
+build.sbt
+koans.bat
+
