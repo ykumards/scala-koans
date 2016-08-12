@@ -1,4 +1,7 @@
 # Scala Koans
 
 
-Code for [Scala Koans](http://www.scalakoans.org/).
+Solving [Scala Koans](http://www.scalakoans.org/).
+
+---
+Code can be found [here](https://github.com/ykumards/scala-koans/tree/master/src/test/scala/org/functionalkoans/forscala).
