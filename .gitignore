@@ -4,9 +4,10 @@ sbtboot/
 ivyrepo/
 support/
 target/
+project/
 *.jar
 *scala.txt
 *.html
 build.sbt
 koans.bat
-
+koans
